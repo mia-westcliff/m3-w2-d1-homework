@@ -1,0 +1,14 @@
+{
+  "name": "mongodb_statsdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mia Zhou",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.2.0"
+  }
+}
